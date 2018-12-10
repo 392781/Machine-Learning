@@ -12,7 +12,7 @@
     https://www.kaggle.com/c/cs4990-assignment-2-option-3-facial-expression/data
     
   ## Model
-  VGG19 inspired model -
+  VGG19 inspired model
   
   * Layers: 64 - 128 - 256 - 512 - 1024, 4096 full connected
     
