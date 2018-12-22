@@ -26,3 +26,12 @@
   [Medical processing inspired Unet](https://github.com/zhixuhao/unet/blob/master/model.py)
   
   * Layers: 64 - 128 - 256 - 512 - 1024 - 512 - 256 - 128 - 64
+
+# 4. Spam detection
+  A practice project.  Recognizing spam text messages using a recurrent neural net.
+  
+  ## Data set
+    https://www.kaggle.com/uciml/sms-spam-collection-dataset
+    
+  ## Tutorial 
+    https://www.kaggle.com/kentata/rnn-for-spam-detection/notebook
