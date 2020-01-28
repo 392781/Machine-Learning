@@ -17,7 +17,7 @@
   * Layers: 64 - 128 - 256 - 512 - 1024, 4096 full connected
     
 # 3. Hair segmentation
-  Hair segmentation using Unets.  Best result was 77.9%.
+  Hair segmentation using Unets.  Best result was 78.9%.
   
   ## Data set
     https://www.kaggle.com/c/cs4990-assignment-3-option-1-hair-segmentation/data
